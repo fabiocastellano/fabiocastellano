@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# Fabio Castellano
+## Advertising - Digital Communication
 
-You can use the [editor on GitHub](https://github.com/fabiocastellano/fabiocastellano/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I grew up in Reus and now I find myself in Barcelona, where I have been able to grow professionally, working for B2B and Tech companies at Canela PR. I have just graduated in Advertising and Public Relations at Universitat de Barcelona. During the last 6 months, I have had a a life-changing opportunity at Università LUMSA (Rome) as en Erasmus Student. 
+
+I consider myself to be positive, open-minded, imaginative and creative. I am passionate about experiential communication, emerging technologies and the virtual world. I have always been really adaptive and unprejucided, as I a have lived my whole life embracing two different cultures because of my Argentinian origins. Since I was a kid, I have had the chance to experience different environments and cultures. In 2016, I moved to Cork (Ireland) where I did my first year of High School as an exchange student. 
+
+My goal is to grow and learn as much as I can in the upcoming years, by gaining experience in different sectors and job positions.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
