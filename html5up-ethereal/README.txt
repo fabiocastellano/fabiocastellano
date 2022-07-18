@@ -3,7 +3,11 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Ethereal, my latest, greatest, and quite possibly most unique template for HTML5 UP.
+I grew up in Reus (Catalunya) and now I find myself in Barcelona, where I have been able to grow professionally, working for B2B and technology companies at Canela PR. I have just graduated in Advertising and Public Relations Degree at Universitat de Barcelona. During the last 6 months, I have had a a life-changing opportunity at Università LUMSA (Rome) as en Erasmus Student. 
+
+I consider myself to be positive, open-minded, imaginative and creative. I am passionate about experiential communication, new technologies and the virtual world. I have always been really adaptive and unprejucided, as I a have lived my whole life embracing two different cultures because of my Argentinian origins. Since I was a kid, I have had the chance to experience different environments and cultures. In 2016, I moved to Cork (Ireland) where I did my first year of High School as an exchange student. 
+
+My goal is to grow and learn as much as I can in the upcoming years, by gaining experience in different sectors and job positions.
 Since releasing Parallelism 3-4 years ago (!!!), I've been dying to do another side-scrolling
 template with more in the way of flexibility/customization potential. The result is this template,
 Ethereal, which combines a robust side-scrolling framework of my own creation (with various
